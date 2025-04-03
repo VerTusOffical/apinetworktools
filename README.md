@@ -1,4 +1,4 @@
-# Мульти-инструмент для Linux
+# ApiNetwork Tools
 
 Этот скрипт является универсальным инструментом для быстрой настройки Linux-системы:
 - Обновление системных пакетов
@@ -10,13 +10,13 @@
 Вы можете запустить скрипт сразу через curl:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/USERNAME/REPO/main/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/VerTusOffical/apinetworktools/main/setup.sh | bash
 ```
 
 или загрузить и запустить локально:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/USERNAME/REPO/main/setup.sh -o setup.sh
+curl -sSL https://raw.githubusercontent.com/VerTusOffical/apinetworktools/main/setup.sh -o setup.sh
 chmod +x setup.sh
 ./setup.sh
 ```
